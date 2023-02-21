@@ -2,8 +2,5 @@
 # Code owner for the entire repository
 *       @sohaib-tariq1
 
-# Code owner for pull requests only
-*       @junaidmalik1997       # Only for pr
-
 # Code owner for a specific file
-test.sh     @maaz-nafees          
+test.sh     @maaznafees          
